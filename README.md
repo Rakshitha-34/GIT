@@ -17,3 +17,6 @@ Technologies Used:
 How to Run:
 - Open index.html in any modern browser
 - Move the mouse to see the animation
+
+project output:
+![Heart Trail Animation Output](images/Heart%20Trail%20Animation%20-%20Personal%20-%20Microsoft​%20Edge%202026-01-17%2017-56-08.mp4)
